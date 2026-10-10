@@ -293,3 +293,17 @@ footer {
     scroll-behavior: auto !important;
   }
 }
+.project-link {
+  display: inline-block;
+  margin-top: 22px;
+  color: #d4af37;
+  font-weight: bold;
+  border-bottom: 1px solid #d4af37;
+  padding-bottom: 4px;
+  transition: 0.3s;
+}
+
+.project-link:hover {
+  color: #fff;
+  border-color: #fff;
+}
